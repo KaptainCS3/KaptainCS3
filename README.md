@@ -1,5 +1,6 @@
 <h1 style = "text-align: center;"> Hi there 👋 I'm Enow Leonard A.</h1>
 
+- 🎯 My Goal is atleast **150 contribution yearly**
 - 🔭 I’m currently working **on Frontend Technologies.**
 - 🌱 I’m currently learning **C Programming, JavaScript, Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate **on Frontend Projects.**
