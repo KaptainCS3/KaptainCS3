@@ -25,10 +25,6 @@
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="Leonard A." /></p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=tokyonight&hide_border=true&line_height=30" /> 
-</a>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaptainCS3&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=DD2727)](https://git.io/streak-stats)
 
 </p>
