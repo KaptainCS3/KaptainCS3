@@ -26,15 +26,15 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=gotham&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 </a>
 
 <a href="ttps://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=gotham&hide_border=true&line_height=30/"> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=tokyonight&hide_border=true&line_height=30/"> 
 </a>
 
 <a href="https://git.io/streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaptainCS3&theme=gotham&hide_border=true&format=[Y.]n.j"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaptainCS3&theme=tokyonight&hide_border=true&format=[Y.]n.j"/>
 </a>
 
 <!--
