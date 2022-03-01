@@ -8,6 +8,7 @@
 - 💬 Ask me about **Tech related stuffs and how to cope with anxieties.**
 - ⚡ Fun fact: **Football, Gymnastic, Reading, Listen to music.**
 - 📫 How to reach me: **mbiapplegryn@gmail.com**.
+- [![wakatime](https://wakatime.com/badge/user/fe1b1813-7f16-4123-9eaf-33ae3ce68d18.svg)](https://wakatime.com/@fe1b1813-7f16-4123-9eaf-33ae3ce68d18)
 <!--
 <h2>Connect with me:</h2>
 -->
@@ -19,15 +20,23 @@
 <a href="https://javascript.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js logo" width="40" height="40"></a>
 <a href="https://www.w3schools.com/html/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5 logo" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3 logo" width="40" height="40"></a></p>
-<p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaptainCS3&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
 </a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&locale=en" alt="Leonard A." /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaptainCS3&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=gotham&hide_border=true">
+</a>
 
-</p>
+<a href="ttps://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=gotham&hide_border=true&line_height=30/"> 
+</a>
+
+<a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaptainCS3&theme=gotham&hide_border=true&format=[Y.]n.j"/>
+</a>
+
 <!--
 **KaptainCS3/KaptainCS3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
