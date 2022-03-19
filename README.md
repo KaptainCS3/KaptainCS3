@@ -24,11 +24,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaptainCS3&theme=tokyonight&layout=compact&hide_border=true&langs_count=6"/>
 </a>
-<!--
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
 </a>
--->
 
 <a href="ttps://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=tokyonight&hide_border=true&line_height=30/"> 
