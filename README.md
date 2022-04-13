@@ -9,9 +9,8 @@
 - ⚡ Fun fact: **Football, Gymnastic, Reading, Listen to music.**
 - 📫 How to reach me: **mbiapplegryn@gmail.com**.
 - [![wakatime](https://wakatime.com/badge/user/fe1b1813-7f16-4123-9eaf-33ae3ce68d18.svg)](https://wakatime.com/@fe1b1813-7f16-4123-9eaf-33ae3ce68d18)
-<!--
+
 <h2>Connect with me:</h2>
--->
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
