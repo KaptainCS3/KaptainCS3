@@ -2,7 +2,7 @@
 
 - 🎯 My Goal is to **learn new skils on a daily basis**
 - 🔭 I’m currently working **on Frontend Technologies.**
-- 🌱 I’m currently learning **C Programming, JavaScript, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **C Programming, JavaScript, Java, Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate **on Frontend Projects.**
 - 🤔 I’m looking for help with **Backend and DataBases.**
 - 💬 Ask me about **Tech related stuffs and how to cope with anxieties.**
