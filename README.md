@@ -1,5 +1,8 @@
 <h1 style = "text-align: center;"> Hi there 👋 I'm Enow Leonard A.</h1>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 - 🎯 My Goal is to **learn new skils on a daily basis**
 - 🔭 I’m currently working **on Frontend Technologies.**
 - 🌱 I’m currently learning **C Programming, JavaScript, Java, Data Structures and Algorithms.**
