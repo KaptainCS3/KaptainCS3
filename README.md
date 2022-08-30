@@ -9,10 +9,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/fe1b1813-7f16-4123-9eaf-33ae3ce68d18.svg)](https://wakatime.com/@fe1b1813-7f16-4123-9eaf-33ae3ce68d18)
 
-![](https://komarev.com/ghpvc/?username=KaptainCS3&style=for-the-badge)
-
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{KaptainCS3}1212%2Fhit-counter)
 <!-- ![](https://github-profile-trophy.vercel.app/?username=KaptainCS3) -->
+
 # TECH ~~ STACK
 
 
