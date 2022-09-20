@@ -3,7 +3,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 - 🌱 I’m currently learning **Javascript, ReactJS**
-- 🔭 I’m currently working **Meme Generator**
+- 🔭 I’m currently working **Notelyfied**
 - 📫 Get in touch mbiapplegryn@gmail.com, 
 
 
