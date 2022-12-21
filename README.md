@@ -48,4 +48,4 @@
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=tokyonight&hide_border=true&line_height=30/)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
