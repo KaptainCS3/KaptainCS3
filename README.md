@@ -1,4 +1,4 @@
-<!--
+
 
 <h1 style = "text-align: center;"> Hi there 👋 I'm Leonard Appelgryn.</h1>
 
@@ -10,8 +10,9 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/fe1b1813-7f16-4123-9eaf-33ae3ce68d18.svg)](https://wakatime.com/@fe1b1813-7f16-4123-9eaf-33ae3ce68d18)
-
+<!--
 ![](https://github-profile-trophy.vercel.app/?username=KaptainCS3)
+-->
 # TECH ~~ STACK
 
 
@@ -51,4 +52,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--->
+
