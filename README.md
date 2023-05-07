@@ -45,8 +45,6 @@
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
 ![https://git.io/streak-stats"](https://github-readme-streak-stats.herokuapp.com/?user=KaptainCS3&theme=tokyonight&hide_border=true&format=[Y.]n.j)
 
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=KaptainCS3&theme=tokyonight&hide_border=true&line_height=30/)
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
