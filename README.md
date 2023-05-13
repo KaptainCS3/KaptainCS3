@@ -10,13 +10,6 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/fe1b1813-7f16-4123-9eaf-33ae3ce68d18.svg)](https://wakatime.com/@fe1b1813-7f16-4123-9eaf-33ae3ce68d18)
-
-<div align="center">
-<p align="center">counting of visitors to this page in this section started from May 13, 2023</p>
-<a href="https://info.flagcounter.com/rylZ"><img src="https://s01.flagcounter.com/count2/rylZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>	
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-<!-- End Visitor Count -->
 # TECH ~~ STACK
 
 
