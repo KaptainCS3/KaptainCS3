@@ -44,8 +44,8 @@
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=KaptainCS3&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)![https://git.io/streak-stats"](https://github-readme-streak-stats.herokuapp.com/?user=KaptainCS3&theme=tokyonight&hide_border=true&format=[Y.]n.j)
 ## My Weekly Routine in the World of Tech 
 <hr />
-<img align="center" width="50%" src="https://wakatime.com/share/@KaptainCS3/e6c07522-4506-42fd-af65-6edc8ac42280.svg"><img align="center" width="50%" src="https://wakatime.com/share/@KaptainCS3/80bfb2e9-9b5a-48e7-9b5e-e3713a589b50.svg"> 
-<img align="center" width="50%" src="https://wakatime.com/share/@KaptainCS3/0f4c311a-bf3a-4db7-85ba-90f2e3bc29e6.svg">
+<img align="center" width="60%" src="https://wakatime.com/share/@KaptainCS3/e6c07522-4506-42fd-af65-6edc8ac42280.svg"><img align="center" width="60%" src="https://wakatime.com/share/@KaptainCS3/80bfb2e9-9b5a-48e7-9b5e-e3713a589b50.svg"> 
+<img align="center" width="100%" src="https://wakatime.com/share/@KaptainCS3/0f4c311a-bf3a-4db7-85ba-90f2e3bc29e6.svg">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
