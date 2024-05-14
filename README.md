@@ -1,5 +1,4 @@
 
-
 <h1 style = "text-align: center;"> Hi there 👋 I'm Leonard Appelgryn.</h1>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -49,6 +48,6 @@
 <img align="center" width="60%" src="https://wakatime.com/share/@KaptainCS3/e6c07522-4506-42fd-af65-6edc8ac42280.svg"><img align="center" width="60%" src="https://wakatime.com/share/@KaptainCS3/80bfb2e9-9b5a-48e7-9b5e-e3713a589b50.svg"> 
 <img align="center" width="100%" src="https://wakatime.com/share/@KaptainCS3/0f4c311a-bf3a-4db7-85ba-90f2e3bc29e6.svg">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaptainCS3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
