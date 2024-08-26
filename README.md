@@ -3,6 +3,11 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 - 🌱 I’m currently learning **Javascript, ReactJS**
 - 🔭 I’m currently working **Notelyfied**
 - 📫 Get in touch mbiapplegryn@gmail.com, 
