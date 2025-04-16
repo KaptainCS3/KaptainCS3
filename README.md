@@ -8,8 +8,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaptainCS3/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 🌱 I’m currently learning **Javascript, ReactJS**
-- 🔭 I’m currently working **Notelyfied**
+- 🌱 I’m currently learning **Go, AWS**
+- 🔭 I’m currently working **my portfolio**
 - 📫 Get in touch mbiapplegryn@gmail.com, 
 
 
